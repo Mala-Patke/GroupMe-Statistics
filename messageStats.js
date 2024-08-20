@@ -213,4 +213,3 @@ function dailyHighlightsCSV() {
     );
 }
 
-console.log(mostCommonSayer('megs'))
